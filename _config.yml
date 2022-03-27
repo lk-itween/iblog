@@ -40,7 +40,7 @@ baseurl: "" # the subpath of your site, e.g. "/blog".网站子路径，一般是
 minima:
   social_links:
     twitter: 
-    github: EasonQYS
+    github: lk-itween/lk-itween.github.io
 
 # Set this to true to get LaTeX math equation support 显示LaTeX数学符号
 use_math: true
